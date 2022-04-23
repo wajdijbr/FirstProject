@@ -1,0 +1,31 @@
+/* .screen a {
+    display: contents;
+    text-decoration: none;
+  }
+  
+  .container-center-horizontal {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    pointer-events: none;
+    width: 100%;
+  }
+  
+  .container-center-horizontal > * {
+    flex-shrink: 0;
+    pointer-events: auto;
+  }
+  
+  .frame-1 {
+    align-items: flex-start;
+    display: flex;
+    height: 997px;
+    overflow: hidden;
+    width: 1504px;
+  }
+  
+  .frame-1-1 {
+    height: 1034px;
+    object-fit: cover;
+    width: 1540px;
+  } */
